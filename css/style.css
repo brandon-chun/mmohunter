@@ -1,0 +1,46 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.landing-page-jumbotron {
+  /* background-image:url('http://goo.gl/04j7Nn'); */
+  background-color: #D3D3D3;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.landing-page-jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.landing-page-jumbotron h1 {
+  /* color: #fff; */
+  /* font-size: 48px;   */
+  /* /* font-family: 'Shift', sans-serif; */ */
+  /* font-weight: bold; */
+}
+
+.landing-page-jumbotron p {
+  /* font-size: 20px; */
+  /* color: #fff; */
+}
+
+#gamelogo a {
+	height: 80px;
+	width: 80px;
+	opacity: 0;
+}
+
+/* #gamelogo img { */
+	/* opacity: 0; */
+/* } */
